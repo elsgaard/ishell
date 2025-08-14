@@ -1,4 +1,4 @@
-module github.com/elsgaard/ishell/v2
+module github.com/elsgaard/ishell
 
 go 1.24
 
